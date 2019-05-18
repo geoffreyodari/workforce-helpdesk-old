@@ -1,0 +1,42 @@
+<?php
+/**
+WorkForce HelpDesk Hidden Menu	https://cmintranet/administrator/index.php?option=com_menus&task=view&menutype=workforcehelpdesk
+**/
+
+//Agents Home Page	
+
+$agent_home = "https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1524";
+//Agents Page For Raising Tickets	
+$agent_raise_ticket ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1525";
+//Agents Page For Viewing Tickets	
+$agent_view_tickets ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1526";
+//Agents Page For Viewing Ticket Details	
+$agent_ticket_details = "https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1527";
+
+
+	
+	
+	//Support Home	
+$support_home= "https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1528";
+//Support Page For Viewing Assigned Tickets	
+$support_assigned_tickets ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1529";
+//Support Page For Viewing All Tickets	
+$support_view_all_tickets ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1530";
+//Support Page For Viewing Ticket Details	
+$support_ticket_details ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1531";
+
+	
+//Admin Home	
+$admin_home ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1532";
+//Admin Page For Adding Support Staff	
+$admin_add_support ="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1533";
+//Admin Page For Adding/Editing Support Staff Skills	
+$admin_edit_support= "https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1534";
+//Admin Page For Viewing Ticket Details	
+$admin_ticket_details="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1535";
+//Admin Page For Viewing  Queries	
+$admin_view_all_tickets="https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1536";
+//Admin Page For Excel Output	
+$admin_report = "https://cmintranet/index.php?option=com_php&task=display&tmpl=component&Itemid=1537";
+
+?>
